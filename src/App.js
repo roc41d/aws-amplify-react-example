@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Github Repo
+          Github Repo >
         </a>
       </header>
     </div>
